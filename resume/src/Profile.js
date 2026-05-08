@@ -1,5 +1,5 @@
 import "./Profile.css";
-import image from "./headshot.jpg";
+import image from "./ham.png";
 import {
   AiFillYoutube,
   AiFillGithub,
