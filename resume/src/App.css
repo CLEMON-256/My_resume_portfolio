@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+hr {
+  border: 5px solid black;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer {
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.footer-content {
+  max-width: 600px;
+}
+
+.email-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: orange;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: 2px solid orange;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.email-link:hover {
+  background-color: orange;
+  color: white;
+}
+
+.back-to-top {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-top: 20px;
+}
