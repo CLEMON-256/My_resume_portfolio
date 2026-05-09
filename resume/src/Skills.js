@@ -19,6 +19,7 @@ const Skills = () => {
         "React.js",
         "React Native",
         "Django",
+        "CloudComputing"
       ],
     },
     {
@@ -31,6 +32,8 @@ const Skills = () => {
         "Kotlin",
         "C#",
         "HTML5 & CSS3",
+        "SQL"
+        
       ],
     },
     {
@@ -42,7 +45,7 @@ const Skills = () => {
       category: "Tools & DevOps",
       icon: <AiOutlineSetting color="orange" size={25} />,
       skills: ["Git & GitHub", "Google Colab", "VS Code ", "Data Wrangler", "windsurf",
-        "Antigravity","Gitlab","Godot Game Engine","Android Studio","Ethical Hacking Tools",
+        "Antigravity","Gitlab","Godot Game Engine","Android Studio","Ethical Hacking Tools","AWS&RENDER"
         
       ],
     },
