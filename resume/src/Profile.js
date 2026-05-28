@@ -15,7 +15,7 @@ const Profile = () => {
           I'm <span className="highlight-text">Yiga Junior</span>
         </p>
         <p className="no-margin small-text">
-          AI software engineer <span className="highlight-text">and</span> hacker
+          AI software engineer <span className="highlight-text">and</span> CyberSecurity Enthusiast
         </p>
         <div className="icons">
           <a href="https://www.instagram.com/">

@@ -5,13 +5,13 @@ const Projects = () => {
   const projectList = [
     {
       title: "Network Vulnerability Scanner",
-      description: "A Python-based tool designed to automate security audits and identify open ports and services.",
+      description: "Built a Python + Nmap security scanner that automated audits and reduced testing time by  60% .",
       tech: ["Python", "Nmap", "Linux"],
       link: "https://github.com/CLEMON-256",
     },
     {
       title: "Portfolio Website",
-      description: "A responsive resume website built with React to showcase software engineering and hacking projects.",
+      description: "Built and deployed a React portfolio website achieving  performance score and  mobile responsiveness 100%.",
       tech: ["React.js", "JavaScript", "CSS"],
       link: "https://github.com/CLEMON-256",
     },
@@ -27,7 +27,7 @@ const Projects = () => {
           rel="noreferrer"
           style={{ color: "orange", textDecoration: "none", display: "flex", alignItems: "center", justifyContent: "center", gap: "8px", fontWeight: "bold" }}
         >
-          <AiFillGithub size={25} /> Browse my GitHub for more
+          <AiFillGithub size={25} /> Browse my GitHub https://github.com/CLEMON-256 for more
         </a>
       </div>
       <div className="work-items">
